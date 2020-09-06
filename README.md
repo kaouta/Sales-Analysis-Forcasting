@@ -7,10 +7,10 @@ The data contains  electronics store purchases informations broken down by month
 # Sales analysis:
 Given the data it is required to do some analysis on it to extract some insights and trend
 # Steps:
-we started by some data cleaning.
-     * gathering all 12 month sales in on csv
-     * dealing with missing values
-     * changing the type of columns
+#### we started by some data cleaning.
+* gathering all 12 month sales in on csv.
+* dealing with missing values.
+* changing the type of columns.
      
 data exploration:
 in this section i tried to discover some high level business questions related to data.
