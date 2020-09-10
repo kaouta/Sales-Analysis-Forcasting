@@ -1,4 +1,4 @@
-# Sales-Analysis-Forcasting
+# Sales-Analysis-Forcasting(Time series )
 For companies to become competitive and skyrocket their growth, they need to to analyse their historical Sales data to discover trends and patterns and leverage AI/ML to develop predictive models to predict sales in the future based on those historical data .
 # About the work:
 Given the data it is required to do some analysis on it to extract some patterns and trends that will help grow the business,then we'll do some forcasting to predict future sales 
